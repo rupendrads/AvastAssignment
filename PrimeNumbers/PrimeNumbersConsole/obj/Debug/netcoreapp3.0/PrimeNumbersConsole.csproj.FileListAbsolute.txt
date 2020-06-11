@@ -1,0 +1,30 @@
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.exe
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.deps.json
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.runtimeconfig.json
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.runtimeconfig.dev.json
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.dll
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.pdb
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.csprojAssemblyReference.cache
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.AssemblyInfoInputs.cache
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.AssemblyInfo.cs
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.dll
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.pdb
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\DotNetCore\PrimeNumbers\primenumbersconsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.csproj.CopyComplete
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.exe
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.deps.json
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.runtimeconfig.json
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.runtimeconfig.dev.json
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.dll
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersConsole.pdb
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.csprojAssemblyReference.cache
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.csproj.CoreCompileInputs.cache
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.AssemblyInfoInputs.cache
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.AssemblyInfo.cs
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.csproj.CopyComplete
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.dll
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.pdb
+C:\rupendra\PrimeNumbers (3)\PrimeNumbers\PrimeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersConsole.genruntimeconfig.cache

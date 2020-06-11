@@ -1,0 +1,14 @@
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.exe
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.deps.json
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.runtimeconfig.json
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.runtimeconfig.dev.json
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.dll
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.pdb
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\Castle.Core.dll
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\bin\Debug\netcoreapp3.0\Moq.dll
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.csprojAssemblyReference.cache
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.AssemblyInfoInputs.cache
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.AssemblyInfo.cs
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.csproj.CopyComplete
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.dll
+D:\Code\DotNetCore\PrimeNumbers\primeNumbersConsole\obj\Debug\netcoreapp3.0\PrimeNumbersPrimeNumbersConsole.pdb
